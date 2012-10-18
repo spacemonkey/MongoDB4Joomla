@@ -1,0 +1,10 @@
+h1. MongoDB for Joomla!
+
+These drivers are specifically written for using MongoDB with Joomla!, most specifically the following subsystems:
+
+* JCache
+* JSession
+
+The drivers are currently embedded for Joomla! 1.5 as part of the "sml4joomla":https://github.com/spacemonkey/sml4joomla project, and are being ported to the Joomla! 3.0 release here.
+
+Stay tuned!
